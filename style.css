@@ -1,0 +1,15 @@
+/* styles.css */
+body {
+  background-color: aqua;
+}
+div.para {
+  color:blue;
+}
+div {
+  color: red;
+  background-color: black;
+}
+
+p {
+  color: red;
+}
